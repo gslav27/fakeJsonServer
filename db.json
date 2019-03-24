@@ -81,121 +81,234 @@
       "id": "1",
       "name": "Levon",
       "surname": "Sargis",
-      "desc": "Phasellus magna enim, congue id dolor sed, molestie fermentum justo. Proin arcu sem, auctor et neque at, pulvinar aliquet magna."
+      "desc": "Phasellus magna enim, congue id dolor sed, molestie fermentum justo"
     },
     {
       "id": "2",
       "name": "Poghos",
       "surname": "Haig",
-      "desc": "Cras nec ornare nulla, at volutpat leo. Suspendisse tristique nec nisi vitae fringilla. Vivamus nunc ex, condimentum ac accumsan eu."
+      "desc": "Cras nec ornare nulla, at volutpat leo"
     },
     {
       "id": "3",
       "name": "Keghart",
       "surname": "Petros",
-      "desc": "Maecenas scelerisque massa id fermentum gravida. Suspendisse tempor placerat erat nec consectetur. Sed mollis nisi ut lectus viverra, quis dictum."
+      "desc": "Maecenas scelerisque massa id fermentum gravida."
     },
     {
       "id": "4",
       "name": "Vardan",
       "surname": "Hakob",
-      "desc": "Nullam ut risus faucibus, volutpat elit condimentum, iaculis erat. Ut placerat varius ligula. Aliquam erat volutpat. Vestibulum eleifend congue sagittis."
+      "desc": "Nullam ut risus faucibus, volutpat elit condimentum, iaculis erat."
     },
     {
       "id": "5",
       "name": "Ohannes",
       "surname": "Sahak",
-      "desc": "Aliquam at nisi finibus, volutpat lorem nec, sodales nunc. Morbi sodales ligula nec enim hendrerit consectetur. Sed tempus pulvinar sem."
+      "desc": "Aliquam at nisi finibus, volutpat lorem nec, sodales nunc."
     },
     {
       "id": "6",
       "name": "Khajag",
       "surname": "Stepan",
-      "desc": "Nunc mattis erat odio, et tempus felis pulvinar ac. Aliquam a odio et ipsum mattis consectetur eu ut massa. Nulla."
+      "desc": "Nunc mattis erat odio, et tempus felis pulvinar ac"
     },
     {
       "id": "7",
       "name": "Jirair",
       "surname": "Ara",
-      "desc": "Vivamus rhoncus interdum metus, sit amet viverra dolor bibendum vel. Vestibulum sit amet suscipit nibh. Fusce ornare tellus non urna."
+      "desc": "Vivamus rhoncus interdum metus, sit amet viverra dolor bibendum vel"
     },
     {
       "id": "8",
       "name": "Sevan",
       "surname": "Hagop",
-      "desc": "Quisque nec aliquam enim. Nam nisi diam, porttitor at tortor nec, gravida dictum erat. In hac habitasse platea dictumst. Vestibulum."
+      "desc": "Quisque nec aliquam enim."
     },
     {
       "id": "9",
       "name": "Daniel",
       "surname": "Avetis",
-      "desc": "Phasellus nec sem condimentum, varius lectus a, efficitur leo. Suspendisse potenti. Curabitur vel pharetra metus, nec scelerisque sapien. Sed non."
+      "desc": "Phasellus nec sem condimentum, varius lectus a, efficitur leo."
     },
     {
       "id": "10",
       "name": "Levon",
       "surname": "Sargis",
-      "desc": "Phasellus magna enim, congue id dolor sed, molestie fermentum justo. Proin arcu sem, auctor et neque at, pulvinar aliquet magna."
+      "desc": "Phasellus magna enim, congue id dolor sed, molestie fermentum justo."
     },
     {
       "id": "11",
       "name": "Poghos",
       "surname": "Haig",
-      "desc": "Cras nec ornare nulla, at volutpat leo. Suspendisse tristique nec nisi vitae fringilla. Vivamus nunc ex, condimentum ac accumsan eu."
+      "desc": "Cras nec ornare nulla, at volutpat leo."
     },
     {
       "id": "12",
       "name": "Keghart",
       "surname": "Petros",
-      "desc": "Maecenas scelerisque massa id fermentum gravida. Suspendisse tempor placerat erat nec consectetur. Sed mollis nisi ut lectus viverra, quis dictum."
+      "desc": "Maecenas scelerisque massa id fermentum gravida."
     },
     {
       "id": "13",
       "name": "Vardan",
       "surname": "Hakob",
-      "desc": "Nullam ut risus faucibus, volutpat elit condimentum, iaculis erat. Ut placerat varius ligula. Aliquam erat volutpat. Vestibulum eleifend congue sagittis."
+      "desc": "Nullam ut risus faucibus, volutpat elit condimentum, iaculis erat."
     },
     {
       "id": "14",
       "name": "Hagop",
       "surname": "Rouben",
-      "desc": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas faucibus eleifend imperdiet. Sed quis tellus."
+      "desc": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
     },
     {
       "id": "15",
       "name": "Ohannes",
       "surname": "Sahak",
-      "desc": "Aliquam at nisi finibus, volutpat lorem nec, sodales nunc. Morbi sodales ligula nec enim hendrerit consectetur. Sed tempus pulvinar sem."
+      "desc": "Aliquam at nisi finibus, volutpat lorem nec, sodales nunc."
+    }
+  ],
+  "properties": {
+    "data": [
+      {
+        "id": 5401,
+        "full_address": "Киев, Киевская область, Дарницкий",
+        "images": [
+          "https://img01-olxua.akamaized.net/img-olxua/670747936_1_1000x700_srochno-prodam-dom-v-r-ne-osokorkov-kiev.jpg",
+        ],
+        "area": 210,
+        "price": 203400
+      },
+      {
+        "id": 3132,
+        "full_address": "Киев, Киевская область, Шевченковский, Черногородка",
+        "images": [
+          "https://img01-olxua.akamaized.net/img-olxua/670544820_3_644x461_prodam-shikarnyy-uchastok-s-domom-i-ozerom-35km-ot-kieva-chernogorodka-prodazha-domov.jpg"
+        ],
+        "area": 421,
+        "price": 787083
+      },
+      {
+        "id": 45134,
+        "full_address": "Киев, Киевская область, пер. Голосеевский 12",
+        "images": [
+          "https://img01-olxua.akamaized.net/img-olxua/564962736_11_644x461_srochnoprodam-dom-240-mkv-pergoloseevskiy-12-_rev021.jpg",
+        ],
+        "area": 215,
+        "price": 1234000
+      },
+      {
+        "id": 1644,
+        "full_address": "Апостолово, Днепропетровская область, Апостоловский район",
+        "images": [
+          "https://img01-olxua.akamaized.net/img-olxua/602203226_1_644x461_prodam-dom-apostolovo.jpg",
+        ],
+        "rating": 100,
+        "price": 415400
+      },
+      {
+        "id": 645,
+        "full_address": "Новоселовка, Днепропетровская область, Новомосковский район",
+        "images": [
+          "https://img01-olxua.akamaized.net/img-olxua/556353292_1_644x461_prodam-dom-novostroy-novoselovka-svoy-bereg-sudohodnaya-reka-novomoskovsk_rev065.jpg"
+        ],
+        "rating": 87,
+        "price": 635200
+      },
+      {
+        "id": 1266,
+        "full_address": "Днепр, Днепропетровская область, Бабушкинский",
+        "images": [
+          "https://img01-olxua.akamaized.net/img-olxua/670766716_1_644x461_prodam-zagorodnyy-dom-dnepropetrovsk_rev001.jpg",
+        ],
+        "rating": 115,
+        "price": 1560700
+      },
+      {
+        "id": 64589,
+        "full_address": "Днепр, Днепропетровская область, Индустриальный",
+        "images": [
+          "https://img01-olxua.akamaized.net/img-olxua/619117958_6_644x461_novaya-tsena-prodam-2-h-et-zagorodnyy-novyy-dom-110m2-_rev002.jpg",
+        ],
+        "rating": 500,
+        "price": 1200500
+      },
+      {
+        "id": 14,
+        "full_address": "Харьков, Харьковская область, Московский",
+        "images": [
+          "https://img01-olxua.akamaized.net/img-olxua/640197212_1_644x461_prodam-dom-metro-akademika-pavlova-9-minut-harkov_rev002.jpg"
+        ],
+        "rating": 1000,
+        "price": 950250
+      }
+    ]
+  },
+  "templates": [
+    {
+      "id": 1,
+      "template": [
+        {
+          "component": "IMAGE",
+          "field": "images"
+        },
+        {
+          "component": "ADDRESS",
+          "field": "full_address"
+        },
+        {
+          "component": "PRICE",
+          "field": "price"
+        },
+        {
+          "component": "AREA",
+          "field": "area"
+        }
+      ]
     },
     {
-      "id": "16",
-      "name": "Khajag",
-      "surname": "Stepan",
-      "desc": "Nunc mattis erat odio, et tempus felis pulvinar ac. Aliquam a odio et ipsum mattis consectetur eu ut massa. Nulla."
+      "id": 2,
+      "template": [
+        {
+          "component": "ADDRESS",
+          "field": "full_address"
+        },
+        {
+          "component": "IMAGE",
+          "field": "images"
+        },
+        {
+          "component": "PRICE",
+          "field": "price"
+        },
+        {
+          "component": "AREA",
+          "field": "area"
+        }
+      ]
     },
     {
-      "id": "17",
-      "name": "Jirair",
-      "surname": "Ara",
-      "desc": "Vivamus rhoncus interdum metus, sit amet viverra dolor bibendum vel. Vestibulum sit amet suscipit nibh. Fusce ornare tellus non urna."
-    },
-    {
-      "id": "18",
-      "name": "Sevan",
-      "surname": "Hagop",
-      "desc": "Quisque nec aliquam enim. Nam nisi diam, porttitor at tortor nec, gravida dictum erat. In hac habitasse platea dictumst. Vestibulum."
-    },
-    {
-      "id": "19",
-      "name": "Daniel",
-      "surname": "Avetis",
-      "desc": "Phasellus nec sem condimentum, varius lectus a, efficitur leo. Suspendisse potenti. Curabitur vel pharetra metus, nec scelerisque sapien. Sed non."
-    },
-    {
-      "id": "20",
-      "name": "Hagop",
-      "surname": "Rouben",
-      "desc": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas faucibus eleifend imperdiet. Sed quis tellus."
+      "id": 3,
+      "template": [
+        {
+          "component": "ADDRESS",
+          "field": "full_address"
+        },
+        {
+          "component": "IMAGE",
+          "field": "images",
+          "children": [
+            {
+              "component": "PRICE",
+              "field": "price"
+            }
+          ]
+        },
+        {
+          "component": "AREA",
+          "field": "area"
+        }
+      ]
     }
   ]
 }
