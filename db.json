@@ -1,45 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Vision-oriented attitude-oriented alliance",
-      "author": "Sile Killbey",
-      "date": "1/7/2019",
-      "description": "Customer-focused cohesive projectionCustomer-focused cohesive projection",
-      "body": "User-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric logistical collaborationUser-centric "
-    },
-    {
-      "id": 2,
-      "title": "Open-source global hardware",
-      "author": "Sibylla Hindes",
-      "date": "6/13/2018",
-      "description": "Exclusive contextually-based protocolExclusive contextually-based protocolExclusive contextually-based protocol",
-      "body": "Enterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation collaborationEnterprise-wide 3rd generation colla"
-    }
-  ],
-  "comments": [
-    {
-      "id": 2,
-      "postId": 2,
-      "author": "Willem Bowe",
-      "date": "3/20/2019",
-      "body": "Upgradable multi-tasking hardwareUpgradable multi-tasking hardwareUpgradable multi-tasking hardwareUpgradable multi-tasking hardware"
-    },
-    {
-      "id": 3,
-      "postId": 1,
-      "author": "Aurelie Swynfen",
-      "date": "5/27/2019",
-      "body": "Visionary neutral circuitVisionary neutral circuit"
-    },
-    {
-      "id": 4,
-      "postId": 1,
-      "author": "Dorothea Ilchuk",
-      "date": "11/8/2019",
-      "body": "Synergistic intangible softwareSynergistic intangible softwareSynergistic intangible software"
-    }
-  ],
   "profile": {
     "name": "typicode"
   },
